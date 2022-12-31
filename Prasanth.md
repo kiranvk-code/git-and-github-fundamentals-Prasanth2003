@@ -1,0 +1,1 @@
+The assignment was vwry helpful to understand about git and github. The features of git and github are very useful. The knowledge that i got from this course will be very useful. I have learnt to fork files and to make pull request. Thankyou for providing the course.
